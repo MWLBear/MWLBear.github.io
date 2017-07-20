@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kill yourself</title>
+  <subtitle>who you are</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-07-20T02:09:49.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>磊子</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好，磊子</title>
+    <link href="http://yoursite.com/2017/07/17/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E7%A3%8A%E5%AD%90/"/>
+    <id>http://yoursite.com/2017/07/17/你好，磊子/</id>
+    <published>2017-07-17T04:22:41.000Z</published>
+    <updated>2017-07-20T02:09:49.000Z</updated>
+    
+    <content type="html"><![CDATA[<p> 磊子真牛逼<a href="https://www.douban.com" target="_blank" rel="external">豆瓣</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; 磊子真牛逼&lt;a href=&quot;https://www.douban.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;豆瓣&lt;/a&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="me" scheme="http://yoursite.com/tags/me/"/>
+    
+  </entry>
+  
+</feed>
