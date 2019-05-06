@@ -1,1 +1,1 @@
-1234567
+bgname=strat.png
