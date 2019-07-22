@@ -1,1 +1,1 @@
-https://rest.yayawan.com/h5/rxby/?device_idfa=
+ttps://rest.yayawan.com/h5/rxby/?device_idfa=
