@@ -1,1 +1,1 @@
-ttps://github.com/MWLBear/game/blob/master/zdr.md
+ttps://rest.yayawan.com/h5/shqyxjl/?device_idfa=
