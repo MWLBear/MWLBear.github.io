@@ -1,1 +1,2 @@
-https://rest.yayawan.com/h5/hsswzh5/?device_idfa=
+aHR0cHM6Ly9yZXN0LnlheWF3YW4uY29tL2g1L2psampsdGZpb3MvP2RldmljZV9pZGZhPQo=
+
