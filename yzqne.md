@@ -1,1 +1,1 @@
-https://rest.yayawan.com/h5/hcydluios/?device_idfa=
+https://rest.yayawan.com/h5/rxby/?device_idfa=
